@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1089473612744",
+    "project_id": "messenger-ce9ae",
+    "storage_bucket": "messenger-ce9ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089473612744:android:0a884968afdd0b17440efd",
+        "android_client_info": {
+          "package_name": "com.ashish.firebasepracto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089473612744-r2dcmlc154as7cuj4vcbr7rlp5dt4lgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashish.firebasepracto",
+            "certificate_hash": "212670f20ad0620d42a31cf7acdd4bc0985adc8b"
+          }
+        },
+        {
+          "client_id": "1089473612744-43g6n6shbrmokn8j9iv3jo9ql0265ibg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcCrC203RiovxYyD642aZQ-cNGr990Eec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089473612744-43g6n6shbrmokn8j9iv3jo9ql0265ibg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
